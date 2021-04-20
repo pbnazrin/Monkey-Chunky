@@ -49,7 +49,7 @@ const styles = StyleSheet.create({
   displayText: {
     textAlign: 'center',
     fontSize: 30,
-    color: 'white'
+    color: 'yellow'
   },
   chunkButton:{
     width: '60%',
@@ -57,7 +57,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     alignItems: 'center',
     alignSelf: 'center',
-    borderRadius: 10,
+    borderRadius: 20,
     margin: 5,
     backgroundColor: 'red'
   }
